@@ -1,4 +1,4 @@
-![QuantumControl-Lab cover](assets/cover.png)
+![QuantumControl-Lab cover](QuantumControl-Lab%20cover.png)
 
 # QuantumControl-Lab 🎛️⚛️
 
